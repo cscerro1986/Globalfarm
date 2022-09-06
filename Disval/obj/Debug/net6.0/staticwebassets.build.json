@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9Fb07MNfpH90ehi0VQiznOSafF45EDZaiQIad4Yfro0=",
+  "Source": "Disval",
+  "BasePath": "_content/Disval",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Disval\\wwwroot",
+      "Source": "Disval",
+      "ContentRoot": "C:\\Users\\Santiago\\Documents\\PROGRAMACION\\Disval .Net\\DisvalGlobalFarm\\Disval\\wwwroot\\",
+      "BasePath": "_content/Disval",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Santiago\\Documents\\PROGRAMACION\\Disval .Net\\DisvalGlobalFarm\\Disval\\wwwroot\\files\\ccv\\CCV.txt",
+      "SourceId": "Disval",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Santiago\\Documents\\PROGRAMACION\\Disval .Net\\DisvalGlobalFarm\\Disval\\wwwroot\\",
+      "BasePath": "_content/Disval",
+      "RelativePath": "files/ccv/CCV.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\ccv\\CCV.txt"
+    }
+  ]
+}
